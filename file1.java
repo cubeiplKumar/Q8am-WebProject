@@ -21,4 +21,8 @@ public class SwapNumbers {
         System.out.println("First number = " + first);
         System.out.println("Second number = " + second);
     }
+	//feature 300 changes by kushal
+	public static void main (String[] args){
+    DemoClass.sampleMethod(4,2);     
+ }
 }
