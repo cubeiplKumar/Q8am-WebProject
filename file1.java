@@ -36,7 +36,12 @@ public class SwapNumbers {
 //webhook changes
 public static void main(string[]args){
 System.out.println("Webhook Event Configuration changes")
+//new webhook changes
+public void method URI(){
+    System.out.println("New WEbhook changes");
 }
+}
+
 
 
 
